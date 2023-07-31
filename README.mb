@@ -1,0 +1,36 @@
+# Frontend Mentor - Age calculator app solution
+
+This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Author](#author)
+
+### The challenge
+
+O usuario deve conseguir:
+
+- Ver a idade em anos, messes e dias com base na data preenchida no formulario
+- Reseber mensagens de erro caso:
+  - Algum campo estiver vasio ao enviar
+  - O dia não se encontre entre 1-31
+  - O mês não se encontre entre 1-12
+  - Data invalida ex. 31/04/1991 (Abril tem 30 dias)
+
+### Links
+
+- Solution URL: [GitHub](https://github.com/CoffeeMaker-E/AgeCalculator)
+- Live Site URL: [Age Calculator](https://coffeemaker-e.github.io/AgeCalculator/)
+
+### Built with
+
+- HTML5
+- customizado no CSS
+- Flexbox
+- CSS Grid
+
+## Author
+
+- Frontend Mentor - [Eduardo](https://www.frontendmentor.io/profile/CoffeeMaker-E)
